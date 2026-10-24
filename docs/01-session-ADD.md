@@ -31,7 +31,7 @@ We need to build an AI and Agents System to automate the Marketing process for a
 
 ### 1.3. As-Is Architecture
 
-![As-Is Architecture](diagrams/01-Session-1-as-is.png)
+![As-Is Architecture](../diagrams/01-Session-1-as-is.png)
 
 **Assumptions:**
 - Concurrent users based on last 6 months: ~50 users; peak (Ramadan, Holidays): ~100 users.
@@ -53,7 +53,7 @@ We need to build an AI and Agents System to automate the Marketing process for a
 
 ### 1.4.1. To-Be Architecture
 
-![To-Be Architecture](diagrams/01-Session-to-be.png)
+![To-Be Architecture](../diagrams/01-Session-to-be.png)
 
 ---
 
